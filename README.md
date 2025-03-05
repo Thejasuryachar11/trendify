@@ -1,6 +1,6 @@
-[![shiny-deploy](https://github.com/UBC-MDS/trending_youtube_viz_r/actions/workflows/deploy-app.yaml/badge.svg)](https://github.com/UBC-MDS/trending_youtube_viz_r/actions/workflows/deploy-app.yaml) [![Testing workflow](https://github.com/UBC-MDS/trending_youtube_viz_r/actions/workflows/testing.yaml/badge.svg)](https://github.com/UBC-MDS/trending_youtube_viz_r/actions/workflows/testing.yaml)
+[![shiny-deploy](https://thejasuryachar.shinyapps.io/TRENDIFY/) [![Testing workflow](https://thejasuryachar.shinyapps.io/TRENDIFY/)](https://thejasuryachar.shinyapps.io/TRENDIFY/)
 
-# 📹 Youtube Trend Analytics
+# 📹 Youtube Trend Analyzer
 ![GIF](img/shiny_dashboard.gif)
 
 Authors: Daniel Cairns, Natalie Cho, Lauren Zung
@@ -21,7 +21,7 @@ Why and how videos go viral on YouTube can seem random and unpredictable. For th
 
 ## Live Dashboard
 
-See our dashboard live on shinyapps.io [here](https://lzung.shinyapps.io/youtube-trend-visualizer/)!
+See our dashboard live on shinyapps.io [here](https://thejasuryachar.shinyapps.io/TRENDIFY/)!
 
 ## Dashboard Features
 
@@ -55,7 +55,7 @@ Please click on the link below to access the sketch on Figma. More detailed mock
 
 ## Dataset Used
 
-Youtube. (2023). <i>YouTube Trending Video Dataset (updated daily)</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/5003820
+Youtube. (2024). <i>YouTube Trending Video Dataset (updated daily)</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/5003820
 Note: As we are based in Canada, we are using data extracted from videos that were trending in Canada due to file size limitations and for ease of loading/extraction. However, given the flexibility of our web app, it can be easily extended to YouTube data from other countries.
 
 ## Get involved
@@ -88,5 +88,6 @@ install.packages(c("shiny", "bslib", "shinyWidgets", "shinydashboard", "ggplot2"
 - Colour-code bubbles in bubble graph by category
 
 ## License
+THEJA SURYACHAR P J
 
 This dashboard is licensed under the terms of the [MIT license](LICENSE).
